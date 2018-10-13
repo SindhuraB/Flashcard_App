@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWheat">#f5deb3</color>
+    <color name="colorOvercast">#F1F1F2</color>
+    <color name="colorWarmGray">#BCBABE</color>
+    <color name="colorIce">#A1D6E2</color>
+    <color name="colorGlacierBlue">#1995AD</color>
+</resources>
